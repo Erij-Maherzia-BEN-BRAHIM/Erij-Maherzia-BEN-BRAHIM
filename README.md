@@ -20,13 +20,6 @@ Passionate about building user-centric web experiences and delivering high-perfo
 
 ---
 
-### 🐍 GitHub Contributions
-
-![GitHub Snake Light](https://github.com/Erij-Maherzia-BEN-BRAHIM/Erij-Maherzia-BEN-BRAHIM/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Erij-Maherzia-BEN-BRAHIM/Erij-Maherzia-BEN-BRAHIM/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
 
 ✨ Always eager to learn and collaborate on exciting projects!
 
